@@ -1,0 +1,1 @@
+# titanic-veri-seti-modeli
